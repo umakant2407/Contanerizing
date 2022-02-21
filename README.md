@@ -2,7 +2,8 @@
 
 This project is made in Flask Framework.
 
-Pre-requisit
+Pre-requisit:-
+
 -Minikube
 -Kubernetes
 -Docker
